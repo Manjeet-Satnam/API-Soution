@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "zArRaWw2wSJTH+DZKjZTB3tA5vnIsUcip5NYJgri1waI7UfjTnpfOmbXEuqaPwOhn43WRYUVZD4M6XRJJw7DhA==",
+  "success": true,
+  "projectFilePath": "/Users/satnamsingh/Desktop/WinningTestProject/Winning-Test/Winning-Test-DAL/Winning-Test-DAL.csproj",
+  "expectedPackageFiles": [
+    "/Users/satnamsingh/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.9/microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.9/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/mongodb.bson/2.13.2/mongodb.bson.2.13.2.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/mongodb.driver/2.13.2/mongodb.driver.2.13.2.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/mongodb.driver.core/2.13.2/mongodb.driver.core.2.13.2.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/mongodb.libmongocrypt/1.2.2/mongodb.libmongocrypt.1.2.2.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/sharpcompress/0.23.0/sharpcompress.0.23.0.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/satnamsingh/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

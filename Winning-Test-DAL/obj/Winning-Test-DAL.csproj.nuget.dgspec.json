@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/satnamsingh/Desktop/WinningTestProject/Winning-Test/Winning-Test-DAL/Winning-Test-DAL.csproj": {}
+  },
+  "projects": {
+    "/Users/satnamsingh/Desktop/WinningTestProject/Winning-Test/Winning-Test-DAL/Winning-Test-DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/satnamsingh/Desktop/WinningTestProject/Winning-Test/Winning-Test-DAL/Winning-Test-DAL.csproj",
+        "projectName": "Winning-Test-DAL",
+        "projectPath": "/Users/satnamsingh/Desktop/WinningTestProject/Winning-Test/Winning-Test-DAL/Winning-Test-DAL.csproj",
+        "packagesPath": "/Users/satnamsingh/.nuget/packages/",
+        "outputPath": "/Users/satnamsingh/Desktop/WinningTestProject/Winning-Test/Winning-Test-DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/satnamsingh/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
